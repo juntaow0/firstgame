@@ -1,0 +1,15 @@
+============User Manual============
+
+Welcome to whatever this game is.
+
+The objective is to control the 
+turtle to reach the green square.
+
+To control, click on the gamepad.
+To search, click the red button.
+
+To start the game, please type 
+your name below in the shell.
+
+===================================
+
